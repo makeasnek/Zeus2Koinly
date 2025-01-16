@@ -1,5 +1,5 @@
 # Zeus2Koinly
-This python script will help you convert your exported transactions from Zeus (CSV) into the format Koinly needs. Python 3 is required to run this. It will run on Windows, Linux, and OS X. Windows users: you may need to []()
+This python script will help you convert your exported transactions from Zeus (CSV) into the format Koinly needs. Python 3 is required to run this. It will run on Windows, Linux, and OS X. 
 
 # How to use:
 1. Open your zeus wallet and swipe up to get to your transaction/activity list.
