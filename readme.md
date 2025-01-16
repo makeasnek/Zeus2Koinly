@@ -5,7 +5,7 @@ This python script will help you convert your exported transactions from Zeus (C
 1. Open your zeus wallet and swipe up to get to your transaction/activity list.
 2. Select the download icon at the top right of your activity list. This will save the CSV file to your downloads folder on your phone.
 3. Transfer the CSV file to your machine with python running on it. E-mail is probably the simplest way.
-4. (optional) Prep files- Place files with the names `invoices.csv` `payments.csv` and `onchain.csv` into the same directory as this script. If you don't do this, the script will prompt you for absolute paths, (in Windows, right click on CSV file and select properties to find this)
+4. (optional, suggested) Prep files - Place files with the names `invoices.csv` `payments.csv` and `onchain.csv` into the same directory as this script. If you don't do this, the script will prompt you for absolute paths, (in Windows, right click on CSV file and select properties to find this)
 5. Run the script with `python main.py` (see platform-specific instructions below)
 6. output.csv will be created, which you can import into Koinly
 7. Make a donation if this script has been useful (see below for more information)
