@@ -30,7 +30,7 @@ This python script will help you convert your exported transactions from Zeus (C
 
 To import your Zeus wallet data to Koinly, use this script!
 
-#Donation
+# Donation
 
 If this software was helpful to you, please consider sending me some sats. Thank you :).
 
