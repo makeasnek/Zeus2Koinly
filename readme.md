@@ -35,7 +35,8 @@ To import your Zeus wallet data to Koinly, use this script!
 If this software was helpful to you, please consider sending me some sats. Thank you :).
 
 ⚡ Lightning: makeasnek@zeuspay.com 
-![Screenshot_2025-01-15-23-23-03-12_fe3a99db156b37a8caccf406cb4af884](https://github.com/user-attachments/assets/78a3d6ee-06bb-4587-aef6-f397d72dd019)
+
+![Screenshot_2025-01-15-23-23-03-12_fe3a99db156b37a8caccf406cb4af884](https://github.com/user-attachments/assets/c979c471-7d81-4c12-b2bf-0950f26291b8)
 
 
 🕐 On-chain: bc1q4zqhmyp8yw4zehw2tf4sjvqc5dv9dm747ssh0p
