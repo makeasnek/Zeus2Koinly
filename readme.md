@@ -38,8 +38,7 @@ If this software was helpful to you, please consider sending me some sats. Thank
 
 ⚡ Lightning: makeasnek@zeuspay.com 
 
-![Screenshot_2025-01-15-23-23-03-12_fe3a99db156b37a8caccf406cb4af884](https://github.com/user-attachments/assets/c979c471-7d81-4c12-b2bf-0950f26291b8)
-
+![Screenshot_2025-01-15-23-23-03-12_fe3a99db156b37a8caccf406cb4af884](https://github.com/user-attachments/assets/f199cd5d-c0dc-458e-bbd6-ad9a929da222)
 
 
 
