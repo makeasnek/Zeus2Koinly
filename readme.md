@@ -18,12 +18,12 @@ This python script will help you convert your exported transactions from Zeus (C
 
 <h4>Linux</h4>
 
- - Open a terminal and go to the folder you downloaded this tool into using `cd /home/user/Downloads/Zeus2Koinly` or wherever you put it
+ - Open a terminal and go to the folder you downloaded this tool into using `cd '/home/user/Downloads/Zeus2Koinly'` or wherever you put it
  - Run `python3 main.py` in the terminal
 
 <h4>OS X</h4>
 
- - Open a terminal and go to the folder you downloaded this tool into using `cd "/home/user/Downloads/Zeus2Koinly"` or wherever you put it
+ - Open a terminal and go to the folder you downloaded this tool into using `cd '/home/user/Downloads/Zeus2Koinly'` or wherever you put it
  - Run `python3 main.py`
 
 # How to import ZEUS wallet to Koinly
