@@ -8,7 +8,7 @@ def float_to_str(inputfloat:float)->str:
 if __name__=="__main__":
     print("Zeus exports three different CSV files, we will ask for the location of each one if it cannot be found")
     print("Please type in the full path if prompted")
-    print("WINDOWS users: You must escape slashes so C:\folder\file.txt should be entered at C:\\folder\\file.txt")
+    print(r"WINDOWS users: You must escape slashes so C:\folder\file.txt should be entered as C:\\folder\\file.txt")
     print("If you want to skip importing a file, just leave your answer blank (hit enter)")
 
     # check if csv import files already exist, prompt if they don't
