@@ -41,6 +41,8 @@ If this software was helpful to you, please consider sending me some sats. Thank
 ![Screenshot_2025-01-15-23-23-03-12_fe3a99db156b37a8caccf406cb4af884](https://github.com/user-attachments/assets/f199cd5d-c0dc-458e-bbd6-ad9a929da222)
 
 
+Follow me on nostr https://njump.me/nprofile1qythwumn8ghj7mrp9eex2mrp09skymr99ehhyee0qy2hwumn8ghj7cmpwfkx7uedvdjxytn5dacz7qpq2xgsu4nad7np6l3e9x8exf26evs202jqkc2ghnuyw4c7hrda9cmq62nshv
+
 
 # Contributions
 
